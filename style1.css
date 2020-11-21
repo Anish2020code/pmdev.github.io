@@ -1,0 +1,309 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    
+    font-family: 'Roboto', sans-serif;
+    background: #000;
+    color:white
+    
+}
+.menubar{
+    width: 150px;
+    height: 35px;
+    float: right;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    size: 23px;
+    }
+.mybutton {
+        font-family: 'Roboto';
+        font-size: 24px;
+        color: #151D21;
+        background: #ff7a7a;
+        display: inline-flex;
+        padding: 6px;
+        margin-top: 30px;
+        margin-right: 5%;
+        margin-left: 5%;
+        border: none;
+        border-radius: 5px;
+    }
+section{
+    visibility: hidden;
+}
+.my{
+    size: 2px;
+}
+.contact-form {
+    margin: 35px auto 0px auto;
+    width: 80%;
+  }
+  
+  .contact-form label {
+    font-size: 20px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  
+  .contact-form input {
+    padding: 12px 20px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    background: rgb(255, 255, 255);
+    font-size: 18px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .contact-form input:focus {
+    border-bottom: 2px solid #1a883f;
+  }
+  
+  .contact-form textarea {
+    padding: 12px 20px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    background: rgb(255, 255, 255);
+    font-size: 18px;
+    border-radius: 3px;
+    width: 100%;
+    font-family: inter;
+    font-weight: normal;
+  }
+  
+  .contact-form textarea:focus {
+    border-bottom: 2px solid #1a883f;
+  }
+  
+  .contact-form button {
+    font-size: 19px;
+    width: 100%;
+    margin-top: 25px;
+    border: none;
+    padding: 12px 20px;
+    background-color: #22b352;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    border-bottom: 3px solid #1a883f;
+  }
+  
+  .contact-form button:hover {
+    background-color: #1a883f;
+    border-bottom: 3px solid #22b352;
+  }
+  .topnav {
+    list-style: none;
+    font-family: 'Roboto Thin';
+    color: aliceblue;
+    margin: 50px 0 0 0;
+    text-align: right;
+  }
+  a:hover{
+       color: red;
+  }
+  .my{
+    margin-top: 500px;
+    height: 650px;
+  }
+  
+.menubar{
+  font-size: 34px;
+  line-height: 26px
+}
+.menusec{
+  font-size: 23;
+  line-height: 26px
+}
+.mybuttono{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: blue;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttona{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: lightblue;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttonb{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: white;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttonc{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: orange;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttond{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: cyan;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttone{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: aqua;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttonf{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: red;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttong{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: magenta;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttonh{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: lightgreen;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttoni{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: blue;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttonz{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: deeppink;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybuttony{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: deepskyblue;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybutton5
+{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: white;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+.mybutton6{
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #151D21;
+  background: yellow;
+  display: inline-flex;
+  padding: 6px;
+  margin-top: 30px;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: none;
+  border-radius: 5px;
+}
+
